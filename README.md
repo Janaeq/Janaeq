@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello World! 👋
+
+My name is Janae 🤓 </br>
+I'm a recent graduate of the Flatiron School's software engineering program.
+I love learning new things about programming, so please feel free to contribute and reach me on other platforms to discuss some changes. 
+
+## Check out some of my projects!
+### [FoodieFriends](https://github.com/Janaeq/foodiefriends)
+### [TikTok Organizer](https://github.com/Janaeq/tiktok-organizer-frontend)
+### [Furry Trails](https://github.com/Janaeq/dogs)
+
 
 <!--
 **Janaeq/Janaeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
